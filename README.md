@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with 3 years of experience building scalable MERN-based applications. Passionate about clean code, performance optimization, and creating smooth user experiences. Hands-on with enterprise platforms including ALM, Exceed LMS (Intellum), Workato, and ServiceNow. Always learning, always building, always leveling up.
+Full Stack Developer with 3+ years of experience building scalable MERN-based applications. Passionate about clean code, performance optimization, and creating smooth user experiences. Hands-on with enterprise platforms including ALM, Exceed LMS (Intellum), Workato, and ServiceNow. Always learning, always building, always leveling up.
 
 
 ## 🌐 Socials:
