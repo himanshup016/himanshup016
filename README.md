@@ -44,6 +44,26 @@ Full-stack e-commerce platform processing **10,000+ daily transactions** with su
 
 ---
 
+## Stuff I've shipped
+ 
+### 🥛 Dudhved — Premium Dairy E-commerce Platform
+> Live at [dudhved.com](https://dudhved.com) · Trusted by 10,000+ families · Built end-to-end
+ 
+A full-stack e-commerce platform for a premium dairy brand — built entirely from scratch and running in production. This one's personal: every layer from auth to deployment is something I designed, built, and own.
+ 
+What's under the hood:
+- **OTP-based authentication** with JWT and Role-Based Access Control (admin/user) — no half-baked auth here
+- **Dynamic admin dashboard** for real-time product, order, and inventory management
+- **Serverless backend** on AWS Lambda + NestJS, keeping costs low and scaling effortless
+- Glassmorphism UI with **Framer Motion** animations — responsive across all devices, zero layout jank
+- **Redux Toolkit** managing cart state, user sessions, and API data caching end-to-end
+- Custom design system with centralized color palette and themed toast notifications — consistency across every screen
+**Stack:** Next.js 15 (App Router) · TypeScript · NestJS · PostgreSQL · MongoDB · AWS Lambda · Redux Toolkit · Tailwind CSS v4 · Framer Motion · JWT
+ 
+**→ [View Live Site](https://dudhved.com)**
+
+---
+
 ## Currently working on
 
 - Exploring **NestJS microservices** architecture patterns for distributed systems
