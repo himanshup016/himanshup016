@@ -12,8 +12,8 @@ Over the last 3+ years at [Harbinger Group](https://www.harbingergroup.com/), I'
 **Backend** — Node.js, Express.js, NestJS, REST APIs, GraphQL  
 **Database** — MongoDB, MySQL, PostgreSQL  
 **Cloud & DevOps** — AWS (Lambda, S3, EC2), GitHub Actions, CI/CD, Docker, Vercel  
-**Testing** — Jest, React Testing Library, 85%+ coverage on production codebases 
-**Tools** — Adbobe Learning Manager(ALM),Intellum LMS, Workato 
+**Testing** — Jest, React Testing Library, 85%+ coverage on production codebases   
+**Tools** — Adbobe Learning Manager(ALM),Intellum LMS, Workato   
 
 ---
 
