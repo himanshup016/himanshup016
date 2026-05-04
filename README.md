@@ -8,11 +8,12 @@ Over the last 3+ years at [Harbinger Group](https://www.harbingergroup.com/), I'
 
 ## What I work with
 
-**Frontend** — React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Material UI  
+**Frontend** — React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Material UI, React Query, zod/yup validation  
 **Backend** — Node.js, Express.js, NestJS, REST APIs, GraphQL  
 **Database** — MongoDB, MySQL, PostgreSQL  
-**Cloud & DevOps** — AWS (Lambda, S3, EC2), GitHub Actions, CI/CD, Docker  
-**Testing** — Jest, React Testing Library, 85%+ coverage on production codebases  
+**Cloud & DevOps** — AWS (Lambda, S3, EC2), GitHub Actions, CI/CD, Docker, Vercel  
+**Testing** — Jest, React Testing Library, 85%+ coverage on production codebases 
+**Tools** — Adbobe Learning Manager(ALM),Intellum LMS, Workato 
 
 ---
 
@@ -45,6 +46,7 @@ Full-stack e-commerce platform processing **10,000+ daily transactions** with su
 ## Currently working on
 
 - Exploring **NestJS microservices** architecture patterns for distributed systems
+- Devloping genies based on workato
 - Contributing to open-source tooling around React performance profiling
 - Writing about things I've learned the hard way (coming soon)
 
