@@ -46,7 +46,7 @@ Full-stack e-commerce platform processing **10,000+ daily transactions** with su
 ## Currently working on
 
 - Exploring **NestJS microservices** architecture patterns for distributed systems
-- Devloping genies based on workato
+- Devloping genies based on workato AI pipeline
 - Contributing to open-source tooling around React performance profiling
 - Writing about things I've learned the hard way (coming soon)
 
