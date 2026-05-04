@@ -7,14 +7,14 @@ Over the last 3+ years at [Harbinger Group](https://www.harbingergroup.com/), I'
 ---
 
 ## What I work with
-
-**Frontend** — React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Material UI, React Query, zod/yup validation  
+```
+**Frontend** — React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, Material UI, React Query, Zod/Yup validation  
 **Backend** — Node.js, Express.js, NestJS, REST APIs, GraphQL  
 **Database** — MongoDB, MySQL, PostgreSQL  
 **Cloud & DevOps** — AWS (Lambda, S3, EC2), GitHub Actions, CI/CD, Docker, Vercel  
 **Testing** — Jest, React Testing Library, 85%+ coverage on production codebases   
 **Tools** — Adbobe Learning Manager(ALM),Intellum LMS, Workato   
-
+```
 ---
 
 ## Projects worth looking at
@@ -22,10 +22,11 @@ Over the last 3+ years at [Harbinger Group](https://www.harbingergroup.com/), I'
 ### 🎓 Headless LMS — Adobe Learning Manager Integration
 Enterprise learning platform serving **15,000+ active users** with **99.8% uptime**.
 
-- Built a modular, API-driven headless LMS that handles **100,000+ course records** with infinite scroll and server-side pagination
-- Cut page load time by **40%** through API optimization, component architecture, and caching
-- Processed **50,000+ Adobe Learning Manager API calls/day** — zero critical bugs, SonarQube 'A' rating throughout
-- Reduced production incidents by **45%** with automated testing and proactive monitoring
+- Modular API-driven architecture with server-side pagination handling 100,000+ course records
+- Deep Adobe Learning Manager integration for user management, course delivery, and content workflows
+- Knocked page load time down by 40% — caching, lazy loading, smarter component architecture
+- Zero critical bugs across the whole dev cycle. SonarQube 'A' rating throughout
+- Cut production incidents by 45% through automated testing and real monitoring (not just hoping)
 
 **Stack:** React · Node.js · MongoDB · Adobe Learning Manager API · SonarQube
 
@@ -64,7 +65,11 @@ Full-stack e-commerce platform processing **10,000+ daily transactions** with su
 | Production uptime on LMS | 99.8% |
 
 ---
+## A bit more about me
+I mentored 3 junior developers at my current job. Not in a formal "I am your mentor" way — just through code reviews, pairing on hard problems, and being straight when something could be better. Team code quality went up 35%. Bug density dropped 28%. I'm more proud of that than most of my technical wins.
+I've also won Employee of the Month twice and the Quarterly Project Excellence Award four times in a row. Not leading with it, but it's there if it matters to you.
 
+---
 ## Let's talk
 
 I'm open to **remote full-time roles**, **contract work**, and **freelance projects** — especially if it involves building something with real complexity.
